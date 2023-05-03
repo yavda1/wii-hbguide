@@ -1,3 +1,3 @@
 # Hello!
 
-This will help you mod your Waii.
+This will help you mod your Wii.
