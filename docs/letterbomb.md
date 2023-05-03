@@ -18,6 +18,6 @@ This will download a Letterbomb.zip file. Extract it on your PC. Connect your **
 
 Now, Safely eject the SD Card from your PC. Put it into the Wii. You should see a Red Envelope a few days before, the same day, or a few days later, Click that red envelope, and you should see some code execute, and the Hackmii Installer load.
 
-In the hackmii installer, you should see Install the Homebrew Channel after a 30 second scam warning. Press A on Install the Homebrew Channel. It should succeed in installing. Press A to Continue, On the D-pad, press down until you get to Exit. Press exit, and you will boot into the Homebrew Channel!
+In the hackmii installer, you should see install the Homebrew Channel after a 30 second scam warning. Press A on Install the Homebrew Channel. It should succeed in installing. Press A to Continue, On the D-pad, press down until you get to Exit. Press exit, and you will boot into the Homebrew Channel!
 
 You can now power off the Wii and install Bootmii.
