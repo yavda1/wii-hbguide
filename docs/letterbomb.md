@@ -1,6 +1,6 @@
 # Running The Exploit.
 
-?> This can brick your wii. Attempt at your own risk.
+!> This can brick your Wii. Attempt at your own risk.
 
 To run letterbomb, you need your Wii's Mac Address, A internet connection in your wii, and a SD card.
 
@@ -8,7 +8,7 @@ First, go to your wiis settings. Connect to your wifi or ethernet via adapter by
 
 Next, Navigate back into the main menu of Internet. Go to Connection Settings, in which you will find your Mac Address. Do not share that with anyone.
 
-Now, Navigate to https://please.hackmii.com , On the website, select your Wii System Menu's Region code. **(It will either be U, E, J, or K.)** 
+Now, Navigate to https://please.hackmii.com , On the website, select your Wii System Menu's Region code. **(It will either be U, E, J, or K.)**
 
 After choosing your system menu code, Enter your mac address. Then cut either wire.
  
