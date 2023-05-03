@@ -1,5 +1,7 @@
 - **Introduction**
 [Home](/)
+[Choose your Exploit](/chooseyourexploit)
 ---
-- **HackMii**
-[BlankPage](about:blank)
+- **Exploits**
+[str2hax](/str2hax)
+[LetterBomb](/letterbomb)
