@@ -1,5 +1,7 @@
 # Running The Exploit.
 
+?> This can brick your wii. Attempt at your own risk.
+
 To run letterbomb, you need your Wii's Mac Address, A internet connection in your wii, and a SD card.
 
 First, go to your wiis settings. Connect to your wifi or ethernet via adapter by going into Internet. After completing that, run the internet. If it asks you to update, do not.
