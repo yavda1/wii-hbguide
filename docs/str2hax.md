@@ -6,7 +6,7 @@
 
 ## What is str2hax?
 
-str2hax is an exploit that exploits and Wii EULA. In short, the Wii EULA section is actually showing a webpage. When loading, you can change the DNS and run unauthorized JavaScript code.
+str2hax is an exploit that exploits the Wii EULA page. In short, the Wii EULA section is actually showing a webpage. When loading, you can change the DNS and run unauthorized JavaScript code.
 
 ## Getting started
 
