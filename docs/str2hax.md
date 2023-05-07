@@ -33,3 +33,4 @@ For this exploit to work, you must set your DNS to a specefic server.
 2. If you see a pony on a light blue background then you've successfully done all the stops properly. Wait for a few minutes for the exploit to occur. Once done, the exploit will install the HackMii installer.
 
 The HackMii launcher should start loading. Congratulations, you've installed Homebrew on your wii!
+    - [Continue to installing BootMii and the Homebrew Channel](homebrewlauncher)
