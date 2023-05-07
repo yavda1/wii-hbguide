@@ -1,9 +1,7 @@
 - **Introduction**
 [Home](/)
--
 - **Choosing an Exploit**
 [Choose your Exploit](/chooseyourexploit)
--
 - **Exploits**
 [str2hax](/str2hax)
 -
