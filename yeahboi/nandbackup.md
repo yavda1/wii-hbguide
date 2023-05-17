@@ -15,9 +15,9 @@ BootMii's main purpose is backing up your Wii systems NAND. With a NAND backup y
 1. Launch the Homebrew Channel
 2. Press the `home` button and select `Launch BootMii`
 
-## Actually backing up the NAND
+## Backing up the NAND
 
-?> You can not navigate the BootMii menus with a Wii remote. You must use the `power` and `reset` buttons.
+?> You can not navigate the BootMii menus with a Wii remote. You must use the `power` and `reset` buttons or a Gamecube controller.
 
 3. Select the icon with gears
 4. Select the BackUpMii icon
