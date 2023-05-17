@@ -24,3 +24,5 @@ The Homebrew Channel allows you to launch Homebrew applications and BootMii help
 ## Done!
 
 You've now installed the Homebrew Launcher. You can use this to launch Homebrew apps!
+
+- [Continue to creating a NAND backup](nandbackup)
