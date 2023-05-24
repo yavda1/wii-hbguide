@@ -1,4 +1,4 @@
-#Bluebomb
+# Bluebomb
 
 ?> For support in English, ask in the discord [server](https://discord.gg/QvGQqx8Mns)
 
@@ -43,4 +43,4 @@ chmod +x bluebomb-helper.sh
 9. Turn on your console and **do not** connect any Wii Remotes.
 10. Press the Sync button and the terminal should show `got connection handle`. This could take numerous attempts, so don't give up.
 
-!> [Coninue to the Hackmii installer page](/hackmii-installer)
+- [Coninue to the Hackmii installer page](/hackmii-installer)
