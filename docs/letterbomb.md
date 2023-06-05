@@ -1,4 +1,4 @@
-#Letterbomb
+# Letterbomb
 
 ?> For support in English, ask in the discord [server](https://discord.gg/QvGQqx8Mns)
 
