@@ -9,6 +9,7 @@
 ---
 - **The Essentials**
 - [cIOS](/cIOS)
+- [Riivolution](/riivolution)
 - [USB Loader GX](/ULGX)
 - [Open Shop Channel](/osc)
 ---
