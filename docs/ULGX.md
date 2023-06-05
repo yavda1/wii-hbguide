@@ -19,8 +19,6 @@ The traditional way to install ULGX is easier said than done. But, this is how.
 5. Insert the SD Card into your Wii.
 6. Power on the wii, and go to the homebrew channel, and launch it.
 7. In the homebrew channel, Launch the USB Loader GX app.
-8. Connect a USB drive, formatted to **fat32** to your wii.
-9. If it has games already in .wbfs format, You will see your games show up.
 
 ## Installing it - Easier Way
 
