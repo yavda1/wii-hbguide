@@ -8,7 +8,6 @@
 -
 [FlashHax](/flashhax)
 - **The Essentials**
-- 
 [cIOS](/cIOS)
 [USB Loader GX](/ULGX)
 [Open Shop Channel](/osc)
