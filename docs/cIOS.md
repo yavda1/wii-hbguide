@@ -10,7 +10,7 @@ This guide will help you install cIOS on your Wii, needed for many homebrew apps
 
 ### What do you need
 
- - [d2x cIOS installer](https://oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip) if you use a Wii, [d2xl cIOS installer](https://dlhb.gamebrew.org/wiihomebrews/d2xlcioswiimini.7z) if you have a Wii Mini. d2x installer can be downloaded from the [Open Shop Channel](insert guide link)
+ - [d2x cIOS installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip) if you use a Wii, [d2xl cIOS installer](https://wii.guide/assets/files/d2xl_wii_mini_cIOS_installer_v1_beta2.zip) if you have a Wii Mini. d2x installer can be downloaded from the [Open Shop Channel](/osc)
  
  - An SD card formatted FAT32, a program to extract .zip or .7z, the Homebrew Channel and a working Wii/Wii Mini
 
