@@ -17,6 +17,9 @@
 [WiiLink24](/wiilink)
 [RiiConnect24](/riiconnect24)
 ---
+- **Extra Information**
+[Extra Info](/extrainfo)
+---
 - **Social Media**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/skyybrew/wiiu-hbguide)
 - [![YouTube](https://icongr.am/simple/youtube.svg?color=808080&size=16)Youtube](https://www.youtube.com/@Jacob-Bjorne/)
