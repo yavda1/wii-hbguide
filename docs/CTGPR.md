@@ -14,7 +14,7 @@
 
 ## Installing CTGP-R
 
-1. Download the CTGP-R file which can be found **above**
+1. Download the CTGP-R file which can be found above
 2. Extract the .zip with 7zip or WinRAR, or if you're on MacOS, use The Unarchiver.
 3. Open the folder and delete the licenses.txt and readme.txt files just to save space.
 4. Drag all of the other files and folder into the root of your SD card. With the apps folder, simply double click into it and drag the CTGP-R folder (which is in the apps folder) over to the apps folder inside your SD card.
