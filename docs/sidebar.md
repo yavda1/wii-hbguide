@@ -12,15 +12,16 @@
 - [Riivolution](/riivolution)
 - [USB Loader GX](/ULGX)
 - [Open Shop Channel](/osc)
+- [Save Game Manager GX](/sgmgx)
 ---
 - **Services**
 [WiiLink24](/wiilink)
 [RiiConnect24](/riiconnect24)
 ---
 - **Extra Information**
-[Extra Info](/extrainfo)
+[Extra Info](/FAQ)
 ---
-- **Social Media**
+- **Social's**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/skyybrew/wiiu-hbguide)
 - [![YouTube](https://icongr.am/simple/youtube.svg?color=808080&size=16)Youtube](https://www.youtube.com/@Jacob-Bjorne/)
 - [![Discord](https://icongr.am/simple/discord.svg?color=808080&size=16)Discord](https://discord.gg/7NWtGD2rv5)
