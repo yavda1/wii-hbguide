@@ -1,16 +1,16 @@
 ## This guide will tell you how to install CTGP-R on your Wii.
 
-### What is CTGP-R? CTGP-R stands for Custom Track Grand Prix Revolution, which basically means you can play **custom tracks in Mario Kart Wii!**
+?> What is CTGP-R? CTGP-R stands for Custom Track Grand Prix Revolution, which basically means you can play over 200 custom tracks in Mario Kart Wii!
 
 
 ## Requirements
 
 - A softmodded Nintendo Wii
 - An SD card, with over 2GB free space
-- The Mario Kart Wii **phyiscal disc**
+- The Mario Kart Wii disc
 - The CTGPR download, which can be found [here](https://mega.nz/file/EaZHxBgQ#dkickWRn2Q2urMKI9jPp9daDAdeeq812W_IXqkdW608)
 
-!> **This will not work with a DIGITAL COPY OF MARIO KART WII. PLEASE GO BUY A PHYISCAL COPY OF MARIO KART WII OR ELSE YOU WILL NOT BE ABLE TO INSTALL CTGP-R**
+!> This will not work with a digital copy of Mario Kart Wii, To install, go and buy a physical disc.
 
 ## Installing CTGP-R
 
@@ -27,4 +27,3 @@
 
 Then you will see that everything looks different! If you go to play a race, you'll see so many new tracks and cups!
 
-### I hope you enjoyed this! Made by Bott, a member of the Skyybrew team.
