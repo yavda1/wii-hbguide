@@ -1,10 +1,12 @@
-## The following will guide you on how to setup USB Loader GX.
+## USB Loader GX
 
-?> ULGX is short for USB Loader GX, and it is a utility to boot backed up wii & gamecube games.
+?> ULGX is short for USB Loader GX, and it is a utility to boot backed up Wii & GameCube games (If you have Nintendont).
 
 ?> ULGX Requires cIOS. Install cIOS [here](buttfuck)
 
 ?> ULGX Requires a USB Drive to boot games.
+
+!> Avoid using a USB Flash Drive as it can lead to complications with ULGX. Instead, opt for a USB HDD or an SSD.
 
 ULGX is a homebrew program for the **Wii.** It can be installed multiple ways, some easier than others.
 
