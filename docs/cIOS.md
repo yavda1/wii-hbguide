@@ -6,15 +6,15 @@ This guide will help you install cIOS on your Wii, needed for many homebrew apps
 
 ?> To install cIOS on vWii, follow [this guide](https://wiiu.skyybrew.xyz/#/vwii)
 
-?> To install cIOS on Wii Mini, follow [this guide](soon)
+?> To install cIOS on Wii Mini, follow [this guide](cios-mini)
 
 ### What do you need
 
- - [d2x cIOS installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip) if you use a Wii, d2x installer can be downloaded from the [Open Shop Channel](osc).
+ - [d2x cIOS installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
  
  - An SD card formatted FAT32, a program to extract .zip or .7z, the Homebrew Channel and a working Wii/Wii Mini
 
- - An internet connection is reccomended, but if you don't have it, you have to use NUS Downloader (covered in this guide).
+ - An internet connection is recommended, but if you don't have it, you have to use NUS Downloader (covered in this guide).
 
 ### Installing cIOS in a normal Wii
 
@@ -23,25 +23,33 @@ This guide will help you install cIOS on your Wii, needed for many homebrew apps
 1. Extract the files and put the "apps" folder on the root of your device.
 2. Run d2x cIOS installer on the Homebrew Channel.
 3. Press continue and put the following settings:
-``` Select cIOS: d2x-v11-beta1
+```
+Select cIOS: d2x-v11-beta1
 Select cIOS base: 38
 Select cIOS slot: 248
-Select cIOS revision: 65535```
+Select cIOS revision: 65535
+```
 4. Once done, press A twice to install. Press A again to go back and set the options like this:
-``` Select cIOS: d2x-v11-beta1
+```
+Select cIOS: d2x-v11-beta1
 Select cIOS base: 56
 Select cIOS slot: 249
-Select cIOS revision: 65535```
+Select cIOS revision: 65535
+```
 5. Once again, press A twice to install and A again to go back. Then set the following:
-``` Select cIOS: d2x-v11-beta1
+```
+Select cIOS: d2x-v11-beta1
 Select cIOS base: 57
 Select cIOS slot: 250
-Select cIOS revision: 65535```
+Select cIOS revision: 65535
+```
 6. Press A twice to install. A again to go back. For the last time, set it to this:
-``` Select cIOS: d2x-v11-beta1
+```
+Select cIOS: d2x-v11-beta1
 Select cIOS base: 58
 Select cIOS slot: 251
-Select cIOS revision: 65535```
+Select cIOS revision: 65535
+```
 7. Press A twice to install. You can now exit the program knowing you installed the amazing cIOS.
 
 ?> If for some reason, after installing one cIOS, it gives you an error when trying to install the next one, exit to the system menu, test the connection and try again.
