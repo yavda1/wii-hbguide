@@ -1,4 +1,4 @@
-### FlashHax
+# FlashHax
 
 ## Requirements
 - A Wii that is connected to the internet
