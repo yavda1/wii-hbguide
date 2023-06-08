@@ -8,6 +8,7 @@
 - [FlashHax](/flashhax)
 ---
 - **The Essentials**
+- [Priiloader](/priiloader)
 - [cIOS](/cIOS)
 - [Riivolution](/riivolution)
 - [USB Loader GX](/ULGX)
