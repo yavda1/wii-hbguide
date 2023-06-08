@@ -24,4 +24,4 @@ The traditional way to install ULGX is easier said than done. But, this is how.
 
 ## Installing it - Easier Way
 
-?> This requires the Open Shop Channel. You can find a guide [here](buttfuck)
+?> This requires the Open Shop Channel. You can find a guide [here](osc)
