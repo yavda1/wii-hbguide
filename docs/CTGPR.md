@@ -22,8 +22,11 @@
 6. On your Wii, open the homebrew channel.
 7. Open up the app "ctgp-r".
 8. You will be brought to the CTGP-R home screen. Go through the process that they are telling you to do.
-9. CTGP-R will start to install/update! Please be patient, the end result will be worth it.
-10. When CTGP-R finishes installing/updating, launch it.
+9. CTGP-R will start to install/update!
 
-Then you will see that everything looks different! If you go to play a race, you'll see so many new tracks and cups!
+## Usage
 
+1. Once you are done installing, navigate to launch.
+2. It will start launching. On the bottom right, make sure the UPNP color is either yellow or red.
+3. Once it is done, you will have launched into CTGP-R!
+4. You can play many new tracks or play online using Wiimmfi. Enjoy!
