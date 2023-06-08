@@ -9,10 +9,11 @@ Priiloader gives your Wii brick protection. You can also use it to do many usefu
 - A SD card or USB drive
 - A PC
 - A hacked Wii
+- [Priiloader Installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 ## Actually installing
 
-1. [Download](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip) the Priiloader installer and extract it
+1. Download the Priiloader installer and extract it
 2. Move it to the root of your SD card
 3. Insert the SD card into your Wii and boot it up
 4. Open the Homebrew Channel and launch the `Priiloader installer`
@@ -27,3 +28,5 @@ Priiloader gives your Wii brick protection. You can also use it to do many usefu
     - `Block disc updates`
     - `Block online updates`
 9. Scroll down to `save settings` and click `A` then press `B` to return to the Priiloaders main menu
+
+?> To install cIOS, follow [this guide](cios)
