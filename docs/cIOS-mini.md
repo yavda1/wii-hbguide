@@ -2,6 +2,7 @@
 
 ### What you need
 - [d2xl cIOS Installer](https://wii.guide/assets/files/d2xl_wii_mini_cIOS_installer_v1_beta2.zip)
+- A USB Drive
 
 ?> For the Wii Mini the installation is different.
 
