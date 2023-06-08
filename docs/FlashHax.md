@@ -1,8 +1,8 @@
-### FlashHax is a very simple method to homebrew your Nintendo Wii, but it is unpopular due to its requirements.
+# FlashHax
 
 ## Requirements
--A Wii that is connected to the internet
--The Internet Channel
+- A Wii that is connected to the internet
+- The Internet Channel
 
 ## Instructions
 1. Open the Internet Channel
