@@ -1,4 +1,4 @@
-## This guide will tell you how to install CTGP-R on your Wii.
+# CTGP-R
 
 ?> What is CTGP-R? CTGP-R stands for Custom Track Grand Prix Revolution, which basically means you can play over 200 custom tracks in Mario Kart Wii!
 
