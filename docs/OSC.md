@@ -9,7 +9,7 @@ The Homebrew Browser, which you can grab from [here](https://wii.guide/assets/fi
 ## Install Guide
 1. Unzip the homebrew browser file and save it to your SD card in the following location: SD:/apps/homebrew_browser.
 2. Safely remove the SD card from your computer.
-3. Insert the SD card into your WiiU and start the vWii Homebrew Channel.
-4. Open the homebrew browser within the homebrew channel. Don't worry if you see colored stripes on the screen – that's normal.
+3. Insert the SD card into your Wii and start the Homebrew Channel.
+4. Open the Homebrew Browser within the Homebrew Channel. Don't worry if you see colored stripes on the screen – that's normal.
 5. The Homebrew Browser will launch and connect to the Open Shop Channel servers.
 6. Browse and download any homebrew applications you want.
