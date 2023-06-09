@@ -17,7 +17,6 @@
 ---
 - **Services**
 [WiiLink24](/wiilink)
-[RiiConnect24](/riiconnect24)
 ---
 - **Extra Information**
 [Extra Info](/FAQ)
