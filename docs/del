@@ -12,7 +12,7 @@ Or if you are on Linux, grab it from [here](https://github.com/RiiConnect24/RiiC
 1. Run the RiiConnect24 patcher (linked above)
 2. Press 1 to select "Start".
 3. Press 2 to select "Wii"
-4. Press 1 to select "Install RiiConnect24".
+4. Press 1 to select "Install RiiConnect24"
 5. Press 1 to select "Express (Recommended).
 6. Select the region of your Wii.
 7. You may have an option to install additional channels. If you would like to install them, press the numbers linked to those options.
@@ -28,5 +28,5 @@ Or if you are on Linux, grab it from [here](https://github.com/RiiConnect24/RiiC
 5. Highlight all of the RiiConnect24 wads and select install.
 6. Wii Mod Lite will now install the WADs.
 
-## Launching RiiConnect24
+#
 1. Launch any of the RiiConnect24 channels and it should work!
