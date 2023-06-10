@@ -22,6 +22,8 @@ These are all of our current pages.
 
 [USB Loader GX](/ULGX)
 
+[Nintendont](/nintendont)
+
 [Open Shop Channel](/osc)
 
 [Save Game Manager GX](/sgmgx)
