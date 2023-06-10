@@ -25,3 +25,10 @@ The traditional way to install ULGX is easier said than done. But, this is how.
 ## Installing it - Easier Way
 
 ?> This requires the Open Shop Channel. You can find a guide [here](osc)
+
+1. Open the Open Shop Channel on your Wii.
+2. Click `search`.
+3. Search for USB Loader GX.
+4. Click `install`.
+5. Wait for it to install then open the Homebrew Channel.
+
