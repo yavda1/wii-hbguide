@@ -2,7 +2,7 @@
 
 ?> ULGX is short for USB Loader GX, and it is a utility to boot backed up Wii & GameCube games (If you have Nintendont).
 
-?> ULGX Requires cIOS. Install cIOS [here](buttfuck)
+?> ULGX Requires cIOS. Install cIOS [here](cios)
 
 ?> ULGX Requires a USB Drive to boot games.
 
@@ -14,13 +14,13 @@ ULGX is a homebrew program for the **Wii.** It can be installed multiple ways, s
 
 The traditional way to install ULGX is easier said than done. But, this is how.
 
-1. Download a copy of ULGX from [here](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
-2. Insert your SD Card into your PC.
-3. Extract the zip folder for ULGX, and drag and drop the contents of the extracted folder onto your SD card.
-4. Eject the SD Card from your PC.
-5. Insert the SD Card into your Wii.
-6. Power on the wii, and go to the homebrew channel, and launch it.
-7. In the homebrew channel, Launch the USB Loader GX app.
+1. Download the ULGX file from [this link](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
+2. Connect your SD Card to your PC.
+3. Extract the contents of the ULGX zip folder, and copy all the extracted files onto the SD Card.
+4. Safely eject the SD Card from your PC.
+5. Insert the SD Card into your Wii console.
+6. Power on the Wii and navigate to the Homebrew Channel. Launch it.
+7. Inside the Homebrew Channel, locate and select the USB Loader GX app to launch it.
 
 ## Installing it - Easier Way
 
