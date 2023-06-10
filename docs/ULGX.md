@@ -32,3 +32,28 @@ The traditional way to install ULGX is easier said than done. But, this is how.
 4. Click `install`.
 5. Wait for it to install then open the Homebrew Channel.
 
+## Usage
+
+1. On your PC, acquire your game in the `.wbfs` file format.
+2. On the root of your SD card or USB drive, make a folder named `wbfs`.
+3. Create a new folder inside of the `wbfs` named whatever your game is, and then the game ID for your game. 
+    - You can find game ID's [here](https://www.gametdb.com/)
+4. Inside of that folder, put your `.wbfs` game and name the game your ID.
+    - Your files should look like the example below
+    ```
+    📁 wbfs
+    ↪️ 
+    📁Metal Slug Anthology [RMLEH4]
+    📁Metroid Prime Trilogy [R3ME01]
+    📁Mortal Kombat - Armageddon [RKME5D]
+    ↪️ 
+    📄RKME5D.wbfs
+
+    Split game example
+    📁Super Smash Bros. Brawl [RSBE01]
+    ↪️ 
+    📄RSBE01.wbf1
+    📄RSBE01.wbfs
+    ```
+5. Once you're in the Wii open USB Loader GX.
+6. Your games should be there, enjoy playing your favorite Wii games!
