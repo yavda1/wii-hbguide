@@ -1,8 +1,8 @@
-# BootMii and backing up your wii's nand.
+# BootMii
 
 !> Backing up your nand is very important. While it is optional, it is highly recommended.
 
-BootMii's main purpose is backing up your Wii systems NAND. With a NAND backup you can fix your Wii after a brick. This guide will inform how to backup the Wii's NAND.
+The primary function of BootMii is to create a backup of your Wii system's NAND. Having a NAND backup is essential for repairing a bricked Wii console. This guide will provide instructions on how to perform a backup of the Wii's NAND, ensuring you have a safeguard in case of any issues or failures.
 
 ## What do I need?
 
@@ -17,15 +17,15 @@ BootMii's main purpose is backing up your Wii systems NAND. With a NAND backup y
 
 ## Backing up the NAND
 
-?> You can not navigate the BootMii menus with a Wii remote. You must use the `power` and `reset` buttons or a Gamecube controller.
+?> Please note that navigating the BootMii menus cannot be done using a Wii remote. Instead, you will need to use either the `power` and `reset` buttons on the Wii console itself or a GameCube controller to navigate through the BootMii menu options.
 
-3. Select the icon with gears
-4. Select the BackUpMii icon
-    - The NAND backup will begin.
-    - If you see "bad blocks" they are normal.
-5. When the backup is complete, exit by pressing any button.
-6. To exit BootMii press the back button.
-7. Store the NAND Backup in a safe, secure place on your computer.
+3. From the BootMii menu, select the icon that resembles gears.
+4. Within the gears menu, locate and select the icon for BackUpMii.
+    - The process of backing up the NAND will commence.
+    - Please note that encountering `bad blocks` during this process is normal.
+5. Once the backup is complete, you can exit by pressing any button.
+6. To exit BootMii, press the back button.
+7. It is important to store the NAND Backup in a safe and secure location on your computer for future reference and potential restoration purposes.
 
 - Continue to installing [priiloader](priiloader)
 
