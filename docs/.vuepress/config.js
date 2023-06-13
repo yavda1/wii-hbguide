@@ -6,7 +6,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Wii Homebrew Guide',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -29,7 +29,9 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    
+    repo: "skyybrwe/wii-hbguide",
+		docsBranch: "master",
+		docsDir: "docs",
     overrideTheme: 'dark',
     prefersTheme: "dark",
     repo: '',
@@ -37,18 +39,11 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
-    nav: [
+    repoLabel: '<i class="fab fa-github icon"></i>',
+    nav: [  
+
       {
-        text: 'Guide',
-        link: '/guide/',
-      },
-      {
-        text: 'Config',
-        link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        
       }
     ],
     displayAllHeaders: true, // Default: fa
