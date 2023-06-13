@@ -54,23 +54,7 @@ module.exports = {
     displayAllHeaders: true, // Default: fa
     search: false,
     searchMaxSuggestions: 10,
-    sidebar: [
-      {
-        title: 'Group 1',   // required
-        path: '/',   
-        collapsable: false, // optional, defaults to true
-        sidebarDepth: 1,    // optional, defaults to 1
-        children: [
-          '/'
-          ['/str2hax', 'str2hax']
-        ]
-      },
-      {
-        title: 'Group 2',
-        children: [['/str2hax', 'str2hax']],
-        initialOpenGroupIndex: -1 // optional, defaults to 0, defines the index of initially opened subgroup
-      }
-    ]
+      
     }
   }
   /**
