@@ -35,8 +35,6 @@ module.exports = {
     overrideTheme: 'dark',
     prefersTheme: "dark",
     editLinks: false,
-    docsDir: '',
-    editLinkText: '',
     lastUpdated: false,
     repoLabel: '<i class="fab fa-github icon"></i>',
     nav: [  
