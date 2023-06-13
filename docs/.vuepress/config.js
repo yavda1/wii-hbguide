@@ -29,7 +29,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: "skyybrwe/wii-hbguide",
+    repo: "skyybrew/wii-hbguide",
 		docsBranch: "master",
 		docsDir: "docs",
     overrideTheme: 'dark',
@@ -39,9 +39,12 @@ module.exports = {
     repoLabel: '<i class="fab fa-github icon"></i>',
     nav: [  
 
-      {
-        
-      }
+      
+        { text: 'Guide', link: '/guide/' },
+
+        { text: 'Guide', link: '/guide/' }
+
+      
     ],
     displayAllHeaders: true, // Default: fa
     search: false,
