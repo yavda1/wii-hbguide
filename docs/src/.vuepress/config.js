@@ -1,16 +1,16 @@
 const { description } = require('../../package')
+
 module.exports = {
-// .v/uepress/config.js
-  
-   /**
+  theme: "vuepress-theme-default-prefers-color-scheme",
+
+  /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Guide',
+  title: 'Vuepress Docs Boilerplate',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
   description: description,
-  theme: "vuepress-theme-default-prefers-color-scheme",
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -18,7 +18,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['meta', { name: 'theme-color', content: '#000000' }],
+    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
@@ -47,7 +47,7 @@ module.exports = {
       },
       {
         text: 'VuePress',
-        link: 'https://v2.vuepress.vuejs.org'
+        link: 'https://v1.vuepress.vuejs.org'
       }
     ],
     sidebar: {
@@ -71,5 +71,4 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
   ]
-  
 }

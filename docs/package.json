@@ -1,7 +1,7 @@
 {
   "name": "wii-hbguide",
   "version": "0.0.1",
-  "description": "A guide for Wii homebrew",
+  "description": "Homebrew tutorials for the Wii",
   "main": "index.js",
   "authors": {
     "name": "javdu",
