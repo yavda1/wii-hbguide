@@ -36,13 +36,13 @@ module.exports = {
     prefersTheme: "dark",
     editLinks: false,
     lastUpdated: false,
-    repoLabel: 'https://icongr.am/simple/github.svg',
+    repoLabel: 'Github',
     nav: [  
 
       
-        { text: 'Guide', link: '/guide/' },
+        { text: 'Exploit', link: '/chooseyourexploit' },
 
-        { text: 'Guide', link: '/guide/' }
+        { text: 'Site Navigation', link: '/navigation' }
 
       
     ],
