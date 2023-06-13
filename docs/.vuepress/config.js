@@ -26,7 +26,7 @@ module.exports = {
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
    *
-   * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
+   * ref：httkpsj://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
     repo: "skyybrew/wii-hbguide",
@@ -36,7 +36,7 @@ module.exports = {
     prefersTheme: "dark",
     editLinks: false,
     lastUpdated: false,
-    repoLabel: '<i class="fab fa-github icon"></i>',
+    repoLabel: 'https://icongr.am/simple/github.svg?color=808080&size=16',
     nav: [  
 
       
