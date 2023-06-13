@@ -36,7 +36,7 @@ module.exports = {
     prefersTheme: "dark",
     editLinks: false,
     lastUpdated: false,
-    repoLabel: '<i class="fab fa-github icon"></i>',
+    repoLabel: 'https://icongr.am/simple/github.svg',
     nav: [  
 
       
