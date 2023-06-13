@@ -34,7 +34,6 @@ module.exports = {
 		docsDir: "docs",
     overrideTheme: 'dark',
     prefersTheme: "dark",
-    repo: '',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
