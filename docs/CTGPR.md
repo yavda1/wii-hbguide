@@ -1,6 +1,6 @@
 # CTGP-R
 
-?> CTGP-R (Custom Track Grand Prix Revolution) is a modification or custom software for Mario Kart Wii that allows players to access and play over 200 custom tracks created by the Mario Kart Wii community. It enhances the game by adding new tracks, characters, features, and online functionalities, expanding the gameplay experience beyond what is available in the original game. CTGP-R provides an extensive collection of user-created tracks, offering players a wide variety of unique and creative racing experiences.
+CTGP-R (Custom Track Grand Prix Revolution) is a modification or custom software for Mario Kart Wii that allows players to access and play over 200 custom tracks created by the Mario Kart Wii community. It enhances the game by adding new tracks, characters, features, and online functionalities, expanding the gameplay experience beyond what is available in the original game. CTGP-R provides an extensive collection of user-created tracks, offering players a wide variety of unique and creative racing experiences.
 
 
 ## Requirements
@@ -9,9 +9,9 @@
 - An SD card, with over 2GB free space
 - The Mario Kart Wii disc
 - The CTGPR download, which can be found [here](https://www.chadsoft.co.uk/download/)
-
-!> Please note that the method described may not work with a digital copy of Mario Kart Wii. To install the game, you will need to purchase a physical disc version.
-
+:::warning
+Please note that the method described may not work with a digital copy of Mario Kart Wii. To install the game, you will need to purchase a physical disc version.
+:::
 ## Installing CTGP-R
 
 1. Download the CTGP-R file from the provided source.

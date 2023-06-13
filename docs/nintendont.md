@@ -13,9 +13,9 @@ The traditional way to install Nintendont is below.
 7. Inside the Homebrew Channel, locate and select the Nintendont app to launch it.
 
 ## Installing it - Easier Way
-
-?> This requires the Open Shop Channel. You can find a guide [here](osc)
-
+:::tip Info
+This requires the Open Shop Channel. You can find a guide [here](osc)
+:::
 1. Open the Open Shop Channel on your Wii.
 2. Click `search`.
 3. Search for Nintendont

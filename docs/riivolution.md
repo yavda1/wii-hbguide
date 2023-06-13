@@ -1,7 +1,7 @@
 # Riivolution Guide
-
-?> Riivolution is a way to add temporary ROM hacks to your disc
-
+:::tip Info
+Riivolution is a way to add temporary ROM hacks to your disc
+:::
 ## Downloads
 - Riivolution can be downloaded [here](https://hbb1.oscwii.org/hbb/riivolution/riivolution.zip)
 - Mario Kart Wii ROM hacks can be found [here](https://wiki.tockdom.com/wiki/Main_Page)

@@ -29,6 +29,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
+    
     overrideTheme: 'dark',
     prefersTheme: "dark",
     repo: '',
@@ -50,20 +51,25 @@ module.exports = {
         link: 'https://v1.vuepress.vuejs.org'
       }
     ],
-    sidebar: {
-      '/guide/': [
+    displayAllHeaders: true, // Default: fa
+      sidebar: [
         {
-          title: 'Guide',
-          collapsable: false,
+          title: 'Group 1',   // required
+          path: '/foo/',      // optional, link of the title, which should be an absolute path and must exist
+          collapsable: false, // optional, defaults to true
+          sidebarDepth: 1,    // optional, defaults to 1
           children: [
-            '',
-            'using-vue',
+            '/'
           ]
+        },
+        {
+          title: 'Group 2',
+          children: [ /* ... */ ],
+          initialOpenGroupIndex: -1 // optional, defaults to 0, defines the index of initially opened subgroup
         }
-      ],
+      ]
     }
-  },
-
+  }
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
@@ -71,4 +77,3 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
   ]
-}

@@ -1,7 +1,7 @@
 # Open Shop Channel
-
-?> The Homebrew Browser is a homebrew software, that unlocks the ability to install homebrew apps, emulators, fan-made games and more directly to your SD card.
-
+:::tip Info
+The Homebrew Browser is a homebrew software, that unlocks the ability to install homebrew apps, emulators, fan-made games and more directly to your SD card.
+:::
 ## Required Downloads
 
 The Homebrew Browser, which you can grab from [here](https://wii.guide/assets/files/homebrew_browser_v0.3.9e.zip)

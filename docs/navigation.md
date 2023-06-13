@@ -2,8 +2,6 @@
 
 These are all of our current pages.
 
-?> Currently, many of these pages do not meet our new standards and will be renovated soon. 
-
 ### Exploits
 [str2hax](/str2hax)
 

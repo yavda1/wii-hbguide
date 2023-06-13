@@ -14,5 +14,6 @@ Select cIOS base: 57
 Select cIOS slot: 249
 ```
 3. Press A to install. Once done, you can exit the installer.
-
-?> cIOS is now installed! Many homebrew apps will work a lot better with it.
+:::tip Info
+cIOS is now installed! Many homebrew apps will work a lot better with it.
+:::
