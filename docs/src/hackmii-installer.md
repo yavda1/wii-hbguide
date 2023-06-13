@@ -13,9 +13,9 @@ The Homebrew Channel allows you to launch Homebrew applications and BootMii help
 4. Wait for the installation to complete, and once finished, press the `Continue` button to proceed.
 
 ## Installing BootMii
-
-!> If you are hacking the Wii Mini, you can skip the next steps. Instead, exit the HackMii installer and proceed with the installation of [Priiloader](/priiloader).
- 
+::: tip Info
+If you are hacking the Wii Mini, you can skip the next steps. Instead, exit the HackMii installer and proceed with the installation of [Priiloader](/priiloader).
+:::
 1. Press the `Back` button to return to the previous menu, and then select `BootMii`.
 2. Choose the option to install BootMii as an IOS. If prompted, also install it as boot2 if available for your Wii model.
 ::: warning

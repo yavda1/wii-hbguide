@@ -6,7 +6,7 @@ SaveGame Manager GX is an homebrew app that lets you export, extract and install
 
 ## Let's now install this software.
 
-### You will need:
+### What do I need?
  
  - An SD card formatted FAT32
 

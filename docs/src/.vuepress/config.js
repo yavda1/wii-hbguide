@@ -1,5 +1,4 @@
 const { description } = require('../../package')
-const { defaultTheme } = require('@vuepress/theme-default')
 module.exports = {
 // .v/uepress/config.js
   
